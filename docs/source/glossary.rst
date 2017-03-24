@@ -302,7 +302,7 @@ cryptographic algorithms for signatures, logging frameworks and state stores,
 are easily swapped in and out of the SDK. The SDK API uses protocol buffers over
 gRPC for transaction processing, membership services, node traversal and event
 handling applications to communicate across the fabric. The SDK comes in
-multiple flavors - Node.js, Java. and Python.
+multiple flavors - Node.js, Java and Python.
 
 .. _State-DB:
 
